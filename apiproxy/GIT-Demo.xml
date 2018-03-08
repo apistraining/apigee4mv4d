@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="GIT-Demo">
+    <Basepaths>/git-demo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1520470600467</CreatedAt>
+    <CreatedBy>pn.sravani@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>GIT-Demo</DisplayName>
+    <LastModifiedAt>1520470600467</LastModifiedAt>
+    <LastModifiedBy>pn.sravani@gmail.com</LastModifiedBy>
+    <ManifestVersion>f9ea2bc376766ab61c8ed57a36516eb6bf1e656ef700b4df2963ee2380b59b218e14fd0cf29dddde8296f42659ea2bd36f87aa92b1b3c20bee99d7be773fa643</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <Policies/>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="59252c874eb8560d5d7b4414c6af1f5adafd8b7d659dcec0a4f3d573f03e77d477ca43e3728397a7c215c5c4a280529c8369f78bad7a38cfe3feca0f5ba28c91"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="afa7898b6db1ab31e3902915347bf3cb51c80d035565803e65fe90778ea389d0896411642a665da85932f19701134f811c30fd73adb14224fb21bf09eac86297"/>
+    </TargetEndpoints>
+</Manifest>
