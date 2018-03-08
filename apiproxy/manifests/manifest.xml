@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-    <Policies/>
+    <Policies>
+        <VersionInfo resourceName="Verify-API-Key-1" version="231ec461539cab963434dbba0f1525ddf633c644ef326d0f9313f220069d73dba309a80583e19e6bebdf99b310938e6afa0618f3cc4b343f26925e3fac639663"/>
+    </Policies>
     <ProxyEndpoints>
-        <VersionInfo resourceName="default" version="59252c874eb8560d5d7b4414c6af1f5adafd8b7d659dcec0a4f3d573f03e77d477ca43e3728397a7c215c5c4a280529c8369f78bad7a38cfe3feca0f5ba28c91"/>
+        <VersionInfo resourceName="default" version="e9089835aa62f6394857cccc6a3bb15521c240cfd6919e8896fae0989d11c7e462d1eddf9d730536e1d95d9d3f5f4d7ab5e449a9c404eb2cca07da6c3c88e5ea"/>
     </ProxyEndpoints>
     <Resources/>
     <SharedFlows/>
